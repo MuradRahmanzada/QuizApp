@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "How old is Florin?",
+        question: "How old am I?",
         a: "10",
         b: "17",
         c: "26",
-        d: "110",
-        correct: "c",
+        d: "19",
+        correct: "d",
     },
     {
         question: "What is the most used programming language in 2019?",
